@@ -19,3 +19,6 @@ up will display your last history
 enter with nothign entered will launch an ssh session with your most recient entry
 Ctrl-c or escape will clear
 
+
+While in selection mode you can hit 'del' and it will delete that hostkey
+
