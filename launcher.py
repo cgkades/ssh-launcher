@@ -252,8 +252,8 @@ def main():
 			if c == 8 and len(history) > 0:
 				window2.erase()
 				window2.refresh()
-				array = history
-				print_autocomplete(window2,history)
+				array = history[::-1]
+				print_autocomplete(window2,history[::-1])
 				complete_loc = autocomplete_select(window2,len(array),stdscr)
 			else:
 				array = auto_hosts
