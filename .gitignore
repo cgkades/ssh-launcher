@@ -1,0 +1,4 @@
+.pyproject
+*.swp
+.pydevproject
+.project
