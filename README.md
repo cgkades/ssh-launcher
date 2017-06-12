@@ -21,3 +21,6 @@ enter with nothign entered will launch an ssh session with your most recient ent
 
 
 While in selection mode you can hit `del` and it will delete that hostkey
+
+
+Trying out [PyVmMonitor](http://pyvmmonitor.com) to help with runtime issues.
